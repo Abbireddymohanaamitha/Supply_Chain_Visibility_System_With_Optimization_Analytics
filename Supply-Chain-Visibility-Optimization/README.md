@@ -1,4 +1,4 @@
-# Supply Chain Visibility system with Optimization analytics
+# Supply Chain Visibility System With Optimization Analytics
 
 An end-to-end Power BI project that unifies inventory, supplier, warehouse, transportation, and delivery data into a single, interactive, KPI-driven dashboard system for supply chain decision-making.
 
